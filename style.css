@@ -7,6 +7,8 @@ body {
 
 a {
   color: #DAA520;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 h1 {
@@ -15,9 +17,6 @@ h1 {
   font-size: 50px;
 }
 
-h2 {
-
-}
 .main {
   float: left;
   margin: auto;
@@ -31,13 +30,6 @@ h2 {
   margin: auto;
 }
 
-.secondary {
-  float: right;
-  margin: auto;
-  border: 5px solid #9b5917;
-  padding: 1px;
-  background-color: white;
-}
 .header {
   color: #DAA520;
   text-align: center;
@@ -45,7 +37,7 @@ h2 {
 
 .knit {
   float: right;
-
+  margin:auto;
   height: 200px;
   border: 5px solid #9b5917;
   padding: 1px;
