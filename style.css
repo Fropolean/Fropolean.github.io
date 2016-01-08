@@ -43,6 +43,15 @@ h2 {
   text-align: center;
 }
 
-.spoiler {
-  color: #b21a1a
+.knit {
+  float: right;
+
+  height: 200px;
+  border: 5px solid #9b5917;
+  padding: 1px;
+  background-color: white;
+}
+
+.center {
+  text-align: center;
 }
