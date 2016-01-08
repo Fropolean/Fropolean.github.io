@@ -1,0 +1,29 @@
+body {
+  color: white;
+  font-family: monospace;
+  background-image:url(http://backgrounds.mysitemyway.com/wp-content/uploads/2009/03/watercolor-grunge-000100-glossy-rust.jpg);
+}
+
+a {
+  color: #DAA520;
+}
+
+h1 {
+  color: #DAA520;
+  text-align: center;
+  font-size: 500;
+}
+
+h2 {
+  
+}
+img {
+  float: left;
+  margin: 0 0 10px 10px;
+  height: 500px;
+}
+
+.header {
+  color: #DAA520;
+  text-align: center;
+}
